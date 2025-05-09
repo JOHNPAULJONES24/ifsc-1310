@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Explore NASA's Mars Rover missions: Curiosity, Perseverance, and more." />
+  <meta name="keywords" content="NASA, Mars, Rover, Space, Exploration, Curiosity, Perseverance" />
+  <meta name="robots" content="noindex" />
+  <title>NASA Mars Rovers</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header>
+    <img src="images/nasa-logo.png" alt="NASA Logo" />
+    <h1>NASA Mars Rovers</h1>
+    <p class="tagline">Robotic Explorers on the Red Planet</p>
+    <nav aria-label="Main navigation">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="mission-history.html">Mission History</a></li>
+        <li><a href="faq.html">FAQ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Welcome to the Mars Rover Program</h2>
+      <p>
+        NASA's Mars Rover Program is one of the most ambitious and inspiring initiatives in space exploration. These robotic explorers have provided critical data on the Martian surface, geology, and potential for life.
+      </p>
+    </section>
+
+    <section>
+      <h2>Featured Rovers</h2>
+      <article>
+        <h3>Curiosity</h3>
+        <img src="images/curiosity.jpg" alt="Curiosity Rover on Mars" />
+        <p>
+          Launched in 2011, Curiosity has been exploring Gale Crater, studying Martian climate and geology, and assessing past habitability.
+        </p>
+        <a href="https://mars.nasa.gov/msl/home/" target="_blank">Learn more on NASA.gov</a>
+      </article>
+      <article>
+        <h3>Perseverance</h3>
+        <img src="images/perseverance.jpg" alt="Perseverance Rover on Mars" />
+        <p>
+          Perseverance landed in 2021 and focuses on astrobiology, caching samples for future return to Earth, and testing new technologies.
+        </p>
+        <a href="https://mars.nasa.gov/mars2020/" target="_blank">Visit official mission page</a>
+      </article>
+    </section>
+  </main>
+     <By:John Paul Jones>
+  <footer>
+    <p><a href="mailto:student@example.com">Contact the Developer</a></p>
+    <p>This website was created as a student project for educational purposes. NASA is not affiliated with or endorsing this work.</p>
+  </footer>
+</body>
+</html>
